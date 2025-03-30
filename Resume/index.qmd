@@ -4,4 +4,6 @@ layout: full
 toc: true
 ---
 
-# Resume
+[Here is my Resume](../Images/Resume.pdf)
+
+Above 

@@ -9,7 +9,7 @@ website:
       - href: index.html
         text: Home
       - href: AboutMe/index.qmd
-        text: AboutMe
+        text: About Me
       - href: Resume/index.qmd
         text: Resume
       - href: ContactMe/index.qmd
