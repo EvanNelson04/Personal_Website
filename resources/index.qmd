@@ -1,7 +1,0 @@
----
-title: "Resources"
-layout: full
-toc: true
----
-
-## List of used resources

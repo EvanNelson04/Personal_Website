@@ -8,14 +8,14 @@ website:
     left:
       - href: index.html
         text: Home
-      - href: syllabus/index.qmd
-        text: Syllabus
-      - href: schedule/index.qmd
-        text: Schedule
-      - href: resources/index.qmd
-        text: Resources
-      - href: contributors/index.qmd
-        text: Contributors
+      - href: AboutMe/index.qmd
+        text: AboutMe
+      - href: Resume/index.qmd
+        text: Resume
+      - href: ContactMe/index.qmd
+        text: Contact Me
+      - href: Projects/index.qmd
+        text: Projects
 
 format:
   html:
