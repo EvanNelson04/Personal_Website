@@ -1,0 +1,38 @@
+/* css styles */
+body {
+  background-color: #2aa86f; /* Light greenish color */
+  color: #ffffff; /* Text color */
+  -webkit-background-clip: text; /* For text clipping */
+  background-clip: text; /* For text clipping */
+  font-size: 20px;
+}
+
+body {
+  color: white; /* Text color */
+  text-shadow:
+    .5px .5px 0px #000000,  /* Right and bottom shadow */
+    -.5px -.5px 0px #000000, /* Left and top shadow */
+    .5px -.5px 0px #000000,  /* Right and top shadow */
+    -.5px .5px 0px #000000;  /* Left and bottom shadow */
+}
+
+.navbar {
+    background-color: #5c5c5c;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 100%
+}
+
+header {
+  height: 80px;
+}
+
+.nav-link:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+
+
+
+

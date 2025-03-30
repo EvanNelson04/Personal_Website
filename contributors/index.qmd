@@ -1,0 +1,43 @@
+---
+title: "Contributors"
+layout: full
+toc: true
+---
+
+<div class="container">
+
+  <!-- Contributor 1 -->
+  <div class="contributor">
+    Name: Contributor 1
+    Major:
+    Minor:
+    Fun Fact:
+  </div>
+
+  <!-- Contributor 2 -->
+  <div class="contributor">
+    Name: Contributor 2
+    Major:
+    Minor:
+    Fun Fact:
+  </div>
+
+  <!-- Contributor 3 -->
+  <div class="contributor">
+    Name: Contributor 3
+    Major:
+    Minor:
+    Fun Fact:
+  </div>
+
+  <!-- Contributor 4 -->
+  <div class="contributor">
+    Name: Contributor 4
+    Major:
+    Minor:
+    Fun Fact:
+  </div>
+
+  <!-- Add more contributors here as needed -->
+
+</div>
