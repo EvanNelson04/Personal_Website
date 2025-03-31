@@ -1,14 +1,17 @@
+/* Body styling */
 body {
   background-color: #ffffff; /* Light background */
-  color: white; /* Ensuring text color consistency */
+  color: rgb(0, 0, 0); /* Ensuring text color consistency */
   text-shadow:
     0.5px 0.5px 0px #000000,  
     -0.5px -0.5px 0px #000000, 
     0.5px -0.5px 0px #000000,  
     -0.5px 0.5px 0px #000000;  
   font-size: 20px;
+  margin: 0; /* Ensure no margin is applied to the body */
 }
 
+/* Navbar styling */
 .navbar {
   background-color: #1e00ff;
   color: white;
@@ -16,17 +19,27 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100vw;
+  width: 100%; /* Full width */
   padding: 10px;
+  position: fixed; /* Ensures navbar stays visible when scrolling */
+  top: 0;
+  z-index: 1000; /* Ensure navbar is on top of other content */
 }
 
+/* Header styling */
 header {
-  height: 80px;
+  height: 80px; /* Adjust header height if needed */
+  position: relative;
+  top: 0; /* Ensure it's aligned correctly */
+  z-index: 999; /* Ensure it's below navbar */
 }
 
+/* Navbar link hover effect */
 .nav-link:hover {
   background-color: #0056b3; /* Darker blue on hover */
+  cursor: pointer; /* Change cursor on hover */
 }
+
 
 
 
