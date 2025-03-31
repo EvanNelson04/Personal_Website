@@ -10,7 +10,7 @@ as much time outside as I physically could. I went to school at Scituate Highsch
 down the road from my house. In highschool I started to find a love for computers, learning technology
 worked, installing computers and just everything about technology.
 
-<img src="../_site/Images/scituate.jpg" alt="Scituate Lighthouse" width="400"/>
+<img src="Images/scituate.jpg" alt="Scituate Lighthouse" width="400"/>
 
 ### Educational Background
 During my junior and senior years of highschool I was able to take 2 intro to computer science clases, one
@@ -19,7 +19,7 @@ different activities and tasks. Very simple as these were introductory clases. T
 potetnially study this into college as it really intreagued me. I decided to go to Allegheny College in Pennsylvania
 because they have a great computer science department.
 
-<img src="../_site/Images/scituateHigh.jpg" alt="Scituate Highschool" width="400"/>
+<img src="Images/scituateHigh.jpg" alt="Scituate Highschool" width="400"/>
 
 ### Tennis
 

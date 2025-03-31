@@ -4,7 +4,7 @@ layout: full
 toc: true
 ---
 
-[![Resume](../_site/Images/ResumeImage.jpg)](../Images/Resume.pdf)
+[![Resume](Images/ResumeImage.jpg)](../Images/Resume.pdf)
 
 Above includes a picture of my professional resume as well as a hotlink to view the resume as a pdf, which can be downloaded
 if needed. Click anywhere on the image of the resume to be brought to the pdf version
