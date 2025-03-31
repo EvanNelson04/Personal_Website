@@ -410,7 +410,7 @@
     "href": "Resume/index.html",
     "title": "Resume",
     "section": "",
-    "text": "Here is my Resume\nAbove"
+    "text": "Resume\n\n\nAbove includes a picture of my professional resume as well as a hotlink to view the resume as a pdf, which can be downloaded if needed. Click anywhere on the image of the resume to be brought to the pdf version!!"
   },
   {
     "objectID": "Resume/index.html#instructor",
@@ -450,9 +450,9 @@
   {
     "objectID": "AboutMe/index.html",
     "href": "AboutMe/index.html",
-    "title": "Schedule",
+    "title": "About Me",
     "section": "",
-    "text": "January 13: No Lab\nJanuary 20: No Class\nMarch 3-7: No Classes\nApril 7: No Class\nApril 11: No Class\nApril 28: Community Project Presentation"
+    "text": "Background\nI was born July 1st in the small town of Scituate, Massachusetts. Grew up playing every sport and spending as much time outside as I physically could. I went to school at Scituate Highschool which was about 1 minute down the road from my house. In highschool I started to find a love for computers, learning technology worked, installing computers and just everything about technology.\n\n\n\nEducational Background\nDuring my junior and senior years of highschool I was able to take 2 intro to computer science clases, one of them being an AP class. This helped me in learning an intro to coding specifically in java. We would complete different activities and tasks. Very simple as these were introductory clases. This progressed into wanting to potetnially study this into college as it really intreagued me. I decided to go to Allegheny College in Pennsylvania because they have a great computer science department.\n\n\n\nTennis\nI have been playing tennis most of my life. Tennis was a sport for me where I could really compete in and have a chance to win some tournaments. Tennis for me was a distractor in life, it allowed me to focus on bettering myself everytime I stepped onto the court. Tennis brought me many things including my best friends still and becoming a better person. I was lucky to have amazing coaches in my life who saw my potential which was able to bring me to play college tennis at Allegheny College. I was a 2 year starter for the team and helped win 2 Conference Titles and bring the team to 2 NCAA Tournament appearences. A shoulder injury riddled my whole career which forced me to quit at the start of my junior year."
   },
   {
     "objectID": "AboutMe/index.html#important-dates",
@@ -467,5 +467,19 @@
     "title": "Schedule",
     "section": "Weekly Schedule",
     "text": "Weekly Schedule\n\nWeek 1 (Jan 13-17): Introduction to Web Design and Tools\n\nTopics: Overview of web design, development tools, workflows, and sitemapping\n\nTasks:\n\nReview CMPSC 104 materials: Git, VSCode, Markdown\nRead Chapter 1: Basics in Learn Enough Command Line to Be Dangerous\n\nSlides: Sitemap\nTechnical Challenge 1: Sitemap\n\n\n\n\nWeek 2 (Jan 20-24): Markdown, Quarto, and Introduction to Software Engineering\n\nTopics: Markdown, Quarto, Wireframing and Software Engineering process\nTasks:\n\nWeb Project 1: Course Website - Sprint 1\nRead Chapter 1: Process in Web Style Guide\n\nRead Chapter 1 in Adaptive Web Design\nSlides: Software Engineering Process\nSlides: Quarto and Wireframing\nSlides: Sprints\n\n\n\n\nWeek 3 (Jan 27-31): HTML Basics\n\nTopics: Structure of HTML documents, semantic HTML, and elements\n\nTasks:\n\nReview CMPSC 104 materials: HTML\nRead HTML\nRead Markup\nTechnical Challenge 2: Semantic HTML\nQuiz 1 on January 31st\n\n\n\n\nWeek 4 (Feb 3-7): CSS Basics and Design Principles\n\nTopics: Design Principles & User Experience\n\nRead What is CSS\nRead Box Model\nRead Responsive Design\nRead Universal Usability\nRead Interface Design\nRead Page Structure\nSlides: Design Principles and Responsiveness\nTechnical Challenge 3\nWeb Project 1: Course Website - Sprint 2\n\n\n\n\nWeek 5 (Feb 10-14): Advanced CSS and Accessibility\n\nTopics: Positioning, layout, accessibility\nTasks:\n\nWeb Project 2 Introduction: Personal Website\nRead Flexbox\nRead CSS Positioning\nRead CSS Grid\nRef: Web Accessibility\n\n\n\n\nWeek 6 (Feb 17-21): Responsive Design\n\nTopics: Media queries, flexible grids, responsive images\nTasks:\n\nQuiz 2 on February 21st\n\n\n\n\nWeek 7 (Feb 24-28): Accessibility Basics\n\nTopics: WCAG 2 standards, testing tools, creating accessible content\n\n\n\nWeek 8 (Mar 1-9): Spring Break\n\nNo class meetings. Use this time to rest, reflect, and recharge.\n\n\n\nWeek 9 (Mar 10-14): Advanced CSS and Design Patterns\n\nTopics: Flexbox, Grid, and web design patterns\n\nTasks:\n\nWeb Project 3 Introduction: Community Website\nQuiz 3 on March 14th\n\n\n\n\nWeek 10 (Mar 17-21): Javascript\n\nTopics: JavaScript syntax, DOM manipulation, basic interactivity\n\n\n\nWeek 11 (Mar 24-28): Introduction to React\n\nTopics: React fundamentals, components\n\n\n\nWeek 12 (Mar 31-Apr 4): React\n\nTopics: React props, and state\n\nTasks:\n\nQuiz 4 on April 4th\n\n\n\n\nWeek 13 (Apr 7-9): Building with React and Static Site Generators\n\nTopics: Using React with 11ty or integrating React components into static sites\n\n\n\nWeek 14 (Apr 14-18): Web Performance Optimization\n\nTopics: Minimizing load times, SEO basics, performance audits\n\n\n\nWeek 15 (Apr 21-25): Final Project Development\n\nActivities: Web portfolio work time.\nTasks:\n\nQuiz 5 on April 21st\n\n\n\n\nFinal Exam Week (Apr 28-May 6): Project Presentation and Reflection\n\nActivities: Present final projects, peer reviews, course reflection"
+  },
+  {
+    "objectID": "ContactMe/index.html",
+    "href": "ContactMe/index.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "Below are all my socials along with an email to contact me!!"
+  },
+  {
+    "objectID": "ContactMe/index.html#how-to-contact-me",
+    "href": "ContactMe/index.html#how-to-contact-me",
+    "title": "Contact Me",
+    "section": "How To Contact Me",
+    "text": "How To Contact Me\nEmail: etn02066@gmail.com\nLinkedin: My LinkedIn Profile\nGitHub: My GitHub Profile\nInstagram: My Instagram Profile\nX: My X Profile"
   }
 ]
