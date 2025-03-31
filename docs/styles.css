@@ -1,0 +1,33 @@
+body {
+  background-color: #ffffff; /* Light background */
+  color: white; /* Ensuring text color consistency */
+  text-shadow:
+    0.5px 0.5px 0px #000000,  
+    -0.5px -0.5px 0px #000000, 
+    0.5px -0.5px 0px #000000,  
+    -0.5px 0.5px 0px #000000;  
+  font-size: 20px;
+}
+
+.navbar {
+  background-color: #1e00ff;
+  color: white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  padding: 10px;
+}
+
+header {
+  height: 80px;
+}
+
+.nav-link:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+
+
+
