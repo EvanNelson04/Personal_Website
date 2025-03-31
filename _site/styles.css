@@ -12,6 +12,18 @@ body {
 }
 
 /* Navbar styling */
+@keyframes wave {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(20px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
 .navbar {
   background-color: #1e00ff;
   color: white;
@@ -19,11 +31,24 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%; /* Full width */
-  padding: 10px;
-  position: fixed; /* Ensures navbar stays visible when scrolling */
-  top: 0;
-  z-index: 1000; /* Ensure navbar is on top of other content */
+  width: 100%;
+  padding: 20px 0;
+  position: relative;
+  overflow: hidden;
+  border-radius: 0 0 50% 50%;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
+  animation: wave 3s ease-in-out infinite;
+}
+
+.navbar .nav-link {
+  color: white;
+  font-size: 18px;
+  margin: 0 15px;
+}
+
+.navbar .nav-link:hover {
+  color: #ffcc00; /* Yellow on hover */
+  text-decoration: underline;
 }
 
 /* Header styling */
@@ -34,11 +59,6 @@ header {
   z-index: 999; /* Ensure it's below navbar */
 }
 
-/* Navbar link hover effect */
-.nav-link:hover {
-  background-color: #0056b3; /* Darker blue on hover */
-  cursor: pointer; /* Change cursor on hover */
-}
 
 
 
