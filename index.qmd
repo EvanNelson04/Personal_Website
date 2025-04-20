@@ -1,0 +1,21 @@
+---
+title: "Welcome"
+page-lauout: full
+toc: true
+---
+
+### Evan Nelson
+
+## Background
+
+My name is Evan Nelson and welcome to my website. I am currently a junior at Allegheny College and studying Computer Science.
+
+<img src="docs/Images/HomeImage.jpg" alt="Tennis Picture" width="800"/>
+
+## What's Included In My Website
+
+1. About Me - A page where you can learn about some of my hobbies and background
+2. Resume - This is where you can see my resume. Inluding my educational background and some of the jobs I have had
+3. Contact Me - A section that includes how to contact me and some links including linkedin
+4. Projects - This includes some of the projects I've created or been a part of while studying at Allegheny College
+

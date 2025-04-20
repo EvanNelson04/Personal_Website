@@ -1,10 +1,10 @@
 ---
 title: "Resume"
-layout: full
+page-lauout: full
 toc: true
 ---
 
-[![Resume](../Images/ResumeImage.jpg)](../Images/Resume.pdf)
+[![Resume](../docs/Images/ResumeImage.jpg)](../Images/Resume.pdf)
 
 Above includes a picture of my professional resume as well as a hotlink to view the resume as a pdf, which can be downloaded
 if needed. Click anywhere on the image of the resume to be brought to the pdf version

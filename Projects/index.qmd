@@ -1,7 +1,28 @@
 ---
 title: "Projects"
-layout: full
+page-lauout: full
 toc: true
 ---
 
 ## Projects That I've Been Part Of
+
+####  Long Term Project Comp Sci 403: [https://github.com/EvanNelson04/Long-Term-Project-403](https://github.com/EvanNelson04/Long-Term-Project-403)
+
+        This project benchmarks encryption and decryption performance for
+        files of varying sizes using GPG and compares results with
+        the age encryption tool. The script generates cryptographic keys,
+        encrypts test files, decrypts them, and verifies the integrity of
+        the original and decrypted files.
+
+#### I billion Loops Project Comp Sci 580: [https://www.figma.com/board/QaBQbtCBFXIpSWKA3w0Oxo/Nelson---Repeat-1-Billion-Loops?node-id=0-1&t=tkDp2CiKWJUpVqHf-1](https://www.figma.com/board/QaBQbtCBFXIpSWKA3w0Oxo/Nelson---Repeat-1-Billion-Loops?node-id=0-1&t=tkDp2CiKWJUpVqHf-1)
+
+        I really enjoyed the process of this experiment. We were assigned
+        the goal of looking into a prior experiment and reconducting the
+        experiment to really hit on what kind of experiment is this? Am I
+        repeating the experiment or am I reproducing the experiment? This
+        was super interesting to discover the different variables that come
+        into play when choosing what kind of experiment. By my definition
+        this experiment is a reproduction, this is because my definition
+        states that reproduction is different team, different setup. Every
+        time someone runs this experiment the results will be different
+        because of the variables.

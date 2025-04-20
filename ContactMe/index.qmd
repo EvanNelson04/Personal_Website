@@ -1,6 +1,6 @@
 ---
 title: "Contact Me"
-layout: full
+page-lauout: full
 toc: true
 ---
 

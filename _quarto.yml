@@ -1,9 +1,9 @@
 project:
-  output-dir: "_site"
+  type: website
+  output-dir: _site
 
 website:
-  title: ""
-  site-url: https://evannelson04.github.io/Personal_Website/
+  title: "Evan Nelson"
   navbar:
     background: dark
     left:
@@ -20,11 +20,10 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
+
 
 
 

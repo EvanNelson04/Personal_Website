@@ -56,7 +56,7 @@ header {
   height: 80px; /* Adjust header height if needed */
   position: relative;
   top: 0; /* Ensure it's aligned correctly */
-  z-index: 999;
+  z-index: 999; /* Ensure it's below navbar */
 }
 
 
