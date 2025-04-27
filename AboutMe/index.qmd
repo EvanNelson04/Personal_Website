@@ -31,4 +31,4 @@ play college tennis at Allegheny College. I was a 2 year starter for the team an
 and bring the team to 2 NCAA Tournament appearences. A shoulder injury riddled my whole career which forced me to quit
 at the start of my junior year.
 
-<img src="../Images/TennisPic.png" alt="Allegheny Mens Tennis 2024 PAC Champions" width="400"/>
+<img src="../docs/Images/TennisPic.png" alt="Allegheny Mens Tennis 2024 PAC Champions" width="400"/>

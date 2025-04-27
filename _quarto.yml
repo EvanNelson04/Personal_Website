@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Evan Nelson"
+  page-footer:
+    center: "© 2025 Evan Nelson. All rights reserved."
   navbar:
     background: dark
     left:
